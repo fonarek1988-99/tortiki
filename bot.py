@@ -1149,35 +1149,34 @@ async def make_order(callback: CallbackQuery):
 
     save_orders(orders)
 
-    username = (
-        f"@{user.username}"
-        if user.username
-        else "нет"
-    )
+username = (
+    f"@{user.username}"
+    if user.username
+    else "нет"
+)
 
-    text = (
-        "🛒 НОВЫЙ ЗАКАЗ\n\n"
+text = (
+    "🛒 НОВЫЙ ЗАКАЗ\n\n"
 
-        f"👤 Имя: {user.first_name}\n"
-        f"🔗 Username: {username}\n"
-        f"🆔 ID: {user.id}\n\n"
+    f"👤 Имя: {user.first_name}\n"
+    f"🔗 Username: {username}\n"
+    f"🆔 ID: {user.id}\n\n"
 
-        f"🎂 Товар: {product['name']}\n"
-        f"💰 Цена: {product['price']} "
-    )
+    f"🎂 Товар: {product['name']}\n"
+    f"💰 Цена: {product['price']}"
+)
 
-    await message.bot.send_message(
-        ADMIN_ID,
-        text
-    )
+await callback.bot.send_message(
+    ADMIN_ID,
+    text
+)
 
-    await callback.message.answer(
-        "✅ Заявка отправлена.\n\n"
-        "Мы скоро свяжемся с вами."
-    )
+await callback.message.answer(
+    "✅ Заявка отправлена.\n\n"
+    "Мы скоро свяжемся с вами."
+)
 
-    await callback.answer()
-
+await callback.answer()
 
 # =====================================
 # СВЯЗЬ С КОНДИТЕРОМ
