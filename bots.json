@@ -1,0 +1,146 @@
+{
+"moscow": {
+"city": "Москва",
+"token": "8914450437:AAEtKeIODpw1oEuwHK6gBPDQYoljz0_uXMg"
+},
+"spb": {
+"city": "Питер",
+"token": "8838088051:AAFOYVftyKtpfBWCAKonq6a7jgRMT2iiUKs"
+},
+"novosibirsk": {
+"city": "Новосибирск",
+"token": "8899366704:AAFlg0Re_X9vAfezg1kPPBW_U0eBQGXInd0"
+},
+"ekaterinburg": {
+"city": "Екатеринбург",
+"token": "8955418822:AAFE_zCudts38bc3FEh4m7u2-Yyr3WO8ITI"
+},
+"kazan": {
+"city": "Казань",
+"token": "8856303162:AAEsgGW3kAdHujl_PrJRP55gw4AM9xdFVr8"
+},
+"krasnodar": {
+"city": "Краснодар",
+"token": "8691305460:AAEvN3GEq_NjI7vFvSAz8UQHQj8FkisRDZg"
+},
+"nnovgorod": {
+"city": "Нижний Новгород",
+"token": "8968835768:AAEqfJf60LMmR6BkMw7YWzPNM7N-Cr1DiTM"
+},
+"krasnoyarsk": {
+"city": "Красноярск",
+"token": "8969931840:AAHAMFMTykX2KAqMD4KEsGA4VnnYP-JIFLY"
+},
+"chelyabinsk": {
+"city": "Челябинск",
+"token": "8913259681:AAHt4rXxsFBwp2UKaFdZQfBpZPl6BlI4I-0"
+},
+"ufa": {
+"city": "Уфа",
+"token": "8658067803:AAH2rkrGyAtW3ZFY5hs7qpKTy-ZIV_RaELc"
+},
+"samara": {
+"city": "Самара",
+"token": "8732539482:AAHesUIXuX0SsHrb2Z7Kj5sqKCFXGDsrO7Y"
+},
+"rostov": {
+"city": "Ростов-на-Дону",
+"token": "8450728584:AAHn8aZf_JUWotAFR-7nuducr_29QhQP2DI"
+},
+"omsk": {
+"city": "Омск",
+"token": "8873058898:AAFa6o8Z_-N1dx3qkz7JCK7YZlDxcuWkXSI"
+},
+"voronezh": {
+"city": "Воронеж",
+"token": "8647204756:AAGzJCd6Om492ouNanBZUB9drg5nlpyP8JE"
+},
+"perm": {
+"city": "Пермь",
+"token": "8984570866:AAHdHXaG7MTsR71YWPGMy9CbaWFKWqUNQqk"
+},
+"volgograd": {
+"city": "Волгоград",
+"token": "8934524101:AAE2YZ5PPmL27TwXVW5yJeGYbUvhnybtozU"
+},
+"saratov": {
+"city": "Саратов",
+"token": "8920802097:AAF8f_m2L3VrMp-v0tj7OVhn-BYzCYUrr3E"
+},
+"tyumen": {
+"city": "Тюмень",
+"token": "8823847011:AAE8D7IrPedX5jtlKAii83_n9P9JQbidAhQ"
+},
+"tolyatti": {
+"city": "Тольятти",
+"token": "8405092480:AAHhBsdx1LW57Ej7ThPQKRTyRLlsrdKpXgs"
+},
+"izhevsk": {
+"city": "Ижевск",
+"token": "8923745005:AAGnR7gAUbZwaEtiC4fPcg189pdYoypPdfI"
+},
+"barnaul": {
+"city": "Барнаул",
+"token": "8826480992:AAG4aWNwpgsxIJ5UqaVTAX6ob19YSU4dpN4"
+},
+"ulyanovsk": {
+"city": "Ульяновск",
+"token": "8964971306:AAHgTwsLJgdKTEMnsf_eMcD2P7escp9iwys"
+},
+"irkutsk": {
+"city": "Иркутск",
+"token": "8890689082:AAHKYwVIBrT83fhFZvg9rv8aPIxpVzlBCiw"
+},
+"khabarovsk": {
+"city": "Хабаровск",
+"token": "8988038139:AAGuBneXYspnr9nJr84Iy1VlwfwpIfTh-SA"
+},
+"yaroslavl": {
+"city": "Ярославль",
+"token": "8802584039:AAGiUz6WyiHKryYqn9_6lcmWLb6_QabLiEc"
+},
+"makhachkala": {
+"city": "Махачкала",
+"token": "8734369971:AAG7rpQdibnwXNv6L9S8jEMVdrdUnO3uzms"
+},
+"tomsk": {
+"city": "Томск",
+"token": "8911578373:AAFrt-PbMvr6qTieJlIasvXByyYJdbbgWBE"
+},
+"orenburg": {
+"city": "Оренбург",
+"token": "8965354272:AAGbP1M58JKo_SJFTfCULKSXtBexLGhnoCI"
+},
+"kemerovo": {
+"city": "Кемерово",
+"token": "8627793053:AAEdHfXEK5hp6EL0fyMcWT5G3pTXEeeFsgE"
+},
+"novokuznetsk": {
+"city": "Новокузнецк",
+"token": "8825744368:AAEMhCG8GvPaCzH0O67ksauCZ2jQtmTx07o"
+},
+"ryazan": {
+"city": "Рязань",
+"token": "8654813591:AAHgUwlCRg7wAAWvDUgrJVky6zwoQilHKZc"
+},
+"astrakhan": {
+"city": "Астрахань",
+"token": "8454532242:AAGCtGznc7CyrMfWNDygkKg7ZjmbnAAvF_w"
+},
+"nabchelny": {
+"city": "Набережные Челны",
+"token": "8712892637:AAF_Bl5crijy-dENhJrcWjgOqr8emHrWOnc"
+},
+"penza": {
+"city": "Пенза",
+"token": "8762516493:AAGtkWdb0OTUhOd6c59j22q9_5diKIw9tRU"
+},
+"kirov": {
+"city": "Киров",
+"token": "8857994992:AAF7tCVyxRHWDRdt7pLsyfsJo7MRTvxP-i4"
+},
+"lipetsk": {
+"city": "Липецк",
+"token": "8899404562:AAG1E5FAIK_q_KZiknY5RNc-gd0-aEC5Yeo"
+}
+}
